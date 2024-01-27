@@ -1,1 +1,4 @@
-https://i.postimg.cc/v8C6SHKf/IMG-20240127-134620.jpg
+apt update/n
+apt upgrade/n
+pkg install python -y/n
+pkg install git -y/n
