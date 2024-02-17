@@ -1,31 +1,18 @@
-apt update
-
-apt upgrade
-
-pkg install python -y
-
-pkg install git -y
-
-git clone https://github.com/SUDIPTO-444/SET-UP
-
-cd SET-UP
-
-python setup.py
-
-
 #### INSTALL TOOL ON TERMUX
 ```python
+ apt update
+ apt upgrade
+ pkg install python -y
+ pkg install git -y
  pkg update
  pkg upgrade
  pkg install python
  pkg install git
  pip install bs4
- pip install futures
- rm -rf DUMP
- git clone --depth=1 https://github.com/U7P4L-IN/DUMP.git
- cd DUMP
- ls
- python DUMP.py
+ git clone https://github.com/SUDIPTO-444/SET-UP
+ cd SET-UP
+
+ python setup.py
 ```
 
 <h4 align="center">Turmux set up comand 🙂</h4>
