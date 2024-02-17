@@ -1,17 +1,16 @@
-[✓]apt update
+apt update
 
-[✓]apt upgrade
+apt upgrade
 
-[✓]pkg install python -y
+pkg install python -y
 
-[✓]pkg install git -y
+pkg install git -y
 
-[✓] git clone https://github.com/SUDIPTO-444/SET-UP
+git clone https://github.com/SUDIPTO-444/SET-UP
 
-[✓]cd SET-UP
+cd SET-UP
 
-
-
+python setup.py
 
 <h4 align="center">Turmux set up comand 🙂</h4>
 
@@ -55,4 +54,4 @@
 
 ###
 
-[✓]python setup.py
+
