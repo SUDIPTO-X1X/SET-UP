@@ -11,7 +11,6 @@
  pip install bs4
  git clone https://github.com/SUDIPTO-444/SET-UP
  cd SET-UP
-
  python setup.py
 ```
 
