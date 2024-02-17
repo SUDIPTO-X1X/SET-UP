@@ -12,6 +12,22 @@ cd SET-UP
 
 python setup.py
 
+
+#### INSTALL TOOL ON TERMUX
+```python
+ pkg update
+ pkg upgrade
+ pkg install python
+ pkg install git
+ pip install bs4
+ pip install futures
+ rm -rf DUMP
+ git clone --depth=1 https://github.com/U7P4L-IN/DUMP.git
+ cd DUMP
+ ls
+ python DUMP.py
+```
+
 <h4 align="center">Turmux set up comand 🙂</h4>
 
 ###
